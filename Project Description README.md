@@ -15,12 +15,12 @@ I implemented a series of data cleaning and transformation procedures. These pro
 5. **Categorical Data Transformation**: I transformed "SoldAsVacant" values from 'Y' and 'N' to 'Yes' and 'No,' improving the interpretability of this categorical variable.
 6. **Duplicate Record Removal**: I identified and removed duplicate records based on various key attributes, ensuring the dataset's integrity and eliminating redundancy.
 
-**Technologies/Tools Used**:
+**Tools Used**:
 
 - SQL: To execute data cleaning and transformation queries.
 - Azure Data Studio: For database management and querying, creating views, temporary tables, and performing data transformations.
 
-**Notable Outcomes/Results**:
+**Notable Outcomes**:
 
 - The project resulted in a significantly cleaner and more standardised dataset, which is now primed for more advanced analytics and modelling.
 - Data inconsistencies and gaps, such as missing property addresses, were effectively addressed, enhancing the dataset's usability for location-based analyses.
